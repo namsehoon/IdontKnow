@@ -1,0 +1,158 @@
+{
+  "project_info": {
+    "project_number": "573397642229",
+    "project_id": "loginexample-3a06b",
+    "storage_bucket": "loginexample-3a06b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573397642229:android:1e6b826d27605289414ebc",
+        "android_client_info": {
+          "package_name": "com.gohool.idontknow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573397642229-jd3r3ij48bi0regroers5g2m4089lsqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.idontknow",
+            "certificate_hash": "444cfea4864b794a887b3cc87d49d3d1dfb9543b"
+          }
+        },
+        {
+          "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1AFqLG2ASjAZ0rbJpeiLTlKymkCIXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573397642229:android:c5fad32c4801622a414ebc",
+        "android_client_info": {
+          "package_name": "com.gohool.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573397642229-m44vs30hilk16u155ln3sdmr3qtppe26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gohool.myapplication",
+            "certificate_hash": "444cfea4864b794a887b3cc87d49d3d1dfb9543b"
+          }
+        },
+        {
+          "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1AFqLG2ASjAZ0rbJpeiLTlKymkCIXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573397642229:android:01916f6210059914414ebc",
+        "android_client_info": {
+          "package_name": "grocery.gohool.authenticateexemple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573397642229-ebued9kmpssf94if2thnkotj57si6vb4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grocery.gohool.authenticateexemple",
+            "certificate_hash": "444cfea4864b794a887b3cc87d49d3d1dfb9543b"
+          }
+        },
+        {
+          "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1AFqLG2ASjAZ0rbJpeiLTlKymkCIXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573397642229:android:5147c4697e929cea414ebc",
+        "android_client_info": {
+          "package_name": "grocery.gohool.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573397642229-k7gqa27rfmepel305nu2is9jc67g90sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "grocery.gohool.googlelogin",
+            "certificate_hash": "444cfea4864b794a887b3cc87d49d3d1dfb9543b"
+          }
+        },
+        {
+          "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw1AFqLG2ASjAZ0rbJpeiLTlKymkCIXQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573397642229-2rq16trevenugocndmi6o0q9vh0van0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
